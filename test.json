@@ -138,18 +138,18 @@
 	  "source" : "Keys_To_The_Kingdom.mp3",
 	  "image" : "album_art_3.jpg",
 	  "trackNumber" : 1,
-	  "totalTrackCount" : 2,
+	  "totalTrackCount" : 1,
 	  "duration" : 221,
 	  "site" : "https://www.youtube.com/audiolibrary/music"
 	},
 	{ "title" : "The Coldest Shoulder",
 	  "album" : "Youtube Audio Library Rock 2",
 	  "artist" : "The 126ers",
-	  "genre" : "Rock",
+	  "genre" : "Rock1",
 	  "source" : "The_Coldest_Shoulder.mp3",
 	  "image" : "album_art_3.jpg",
-	  "trackNumber" : 2,
-	  "totalTrackCount" : 2,
+	  "trackNumber" : 1,
+	  "totalTrackCount" : 1,
 	  "duration" : 160,
 	  "site" : "https://www.youtube.com/audiolibrary/music"
 	}
