@@ -3,12 +3,12 @@
 	  "album" : "Blues",
 	  "artist" : "Media",
 	  "genre" : "Jazz & Blues",
-	  "source" : "Jazz_In_Paris.mp3",
+	  "source" : "001.mp3",
 	  "image" : "album_art.jpg",
 	  "trackNumber" : 1,
 	  "totalTrackCount" : 6,
 	  "duration" : 103,
-	  "site" : "https://www.youtube.com/audiolibrary/music"
+	  "site" : "https://server8.mp3quran.net/ahmad_huth"
 	},
 	{ "title" : "The Messenger",
 	  "album" : "Jazz & Blues",
